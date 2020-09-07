@@ -186,7 +186,7 @@ KEYMAPS(
    Key_Enter,     Key_Y, Key_U, Key_I,     Key_O,         Key_P,         Key_Equals,
                   Key_H, Key_J, Key_K,     Key_L,         Key_Semicolon, Key_Quote,
    Key_RightAlt,  Key_N, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
-   Key_RightShift, Key_LeftAlt, Key_Spacebar, Key_RightControl,
+   Key_RightShift, Key_Spacebar, Key_LeftAlt, Key_RightControl,
    ShiftToLayer(FUNCTION)),
 
 #elif defined (PRIMARY_KEYMAP_DVORAK)
@@ -203,7 +203,7 @@ KEYMAPS(
    Key_Enter,      Key_F, Key_G, Key_C, Key_R, Key_L, Key_Slash,
                    Key_D, Key_H, Key_T, Key_N, Key_S, Key_Minus,
    Key_RightAlt,   Key_B, Key_M, Key_W, Key_V, Key_Z, Key_Equals,
-   Key_RightShift, Key_LeftAlt, Key_Spacebar, Key_RightControl,
+   Key_RightShift, Key_Spacebar, Key_LeftAlt, Key_RightControl,
    ShiftToLayer(FUNCTION)),
 
 #elif defined (PRIMARY_KEYMAP_COLEMAK)
@@ -220,7 +220,7 @@ KEYMAPS(
    Key_Enter,     Key_J, Key_L, Key_U,     Key_Y,         Key_Semicolon, Key_Equals,
                   Key_H, Key_N, Key_E,     Key_I,         Key_O,         Key_Quote,
    Key_RightAlt,  Key_K, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
-   Key_RightShift, Key_LeftAlt, Key_Spacebar, Key_RightControl,
+   Key_RightShift, Key_Spacebar, Key_LeftAlt, Key_RightControl,
    ShiftToLayer(FUNCTION)),
 
 #elif defined (PRIMARY_KEYMAP_CUSTOM)
@@ -237,7 +237,7 @@ KEYMAPS(
    Key_Enter,     Key_Y, Key_U, Key_I,     Key_O,         Key_P,         Key_Equals,
                   Key_H, Key_J, Key_K,     Key_L,         Key_Semicolon, Key_Quote,
    Key_RightAlt,  Key_N, Key_M, Key_Comma, Key_Period,    Key_Slash,     Key_Minus,
-   Key_RightShift, Key_LeftAlt, Key_Spacebar, Key_RightControl,
+   Key_RightShift, Key_Spacebar, Key_LeftAlt, Key_RightControl,
    ShiftToLayer(FUNCTION)),
 
 #else
